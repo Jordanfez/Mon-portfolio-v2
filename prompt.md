@@ -1,4 +1,4 @@
-# Portfolio Fullstack — Essimbi Louis Jos Deranot
+# Portfolio Fullstack — FEZEU WANGA MORIEN JORDAN
 ## Prompt pour Cursor AI
 
 ---
@@ -130,9 +130,9 @@ src/
 t=0.0 : Loader disparaît (opacity 0, scale 0.95)
 t=0.3 : Canvas Three.js fade in
 t=0.5 : Tag "Développeur Fullstack Senior" slide depuis la gauche
-t=0.7 : Titre ligne 1 "ESSIMBI" — lettres tombent une par une depuis Y:-100
-t=0.9 : Titre ligne 2 "Louis Jos" — même effet, stagger 0.06s
-t=1.1 : Titre ligne 3 "Deranot" (outline) — fade in
+t=0.7 : Titre ligne 1 "FEZEU " — lettres tombent une par une depuis Y:-100
+t=0.9 : Titre ligne 2 "WANGA MORIEN" — même effet, stagger 0.06s
+t=1.1 : Titre ligne 3 "JORDAN" (outline) — fade in
 t=1.3 : Sous-titre paragraphe — fade up
 t=1.5 : Status dots — slide depuis la droite
 t=1.7 : Scroll indicator — fade in + animation boucle
@@ -293,7 +293,7 @@ export const PROJECTS = [
   {
     id: '01', name: 'Réseau social professionnel',
     desc: 'Plateforme type LinkedIn pour le marché africain — 2 000+ utilisateurs en beta',
-    stack: ['Vue.js', 'Laravel', 'PostgreSQL', 'Redis'],
+    stack: ['React.js', 'Laravel', 'PostgreSQL'],
     color: '#1a3c6e', year: '2024'
   },
   {
@@ -338,7 +338,7 @@ export const SKILLS = [
       { name: 'Angular', icon: 'angular', devicon: true },
       { name: 'TypeScript', icon: 'typescript', devicon: true },
       { name: 'RxJS', icon: 'rxjs', simpleicons: true },
-      { name: 'Vue.js', icon: 'vuedotjs', simpleicons: true },
+      { name: 'React.js', icon: 'vuedotjs', simpleicons: true },
       { name: 'Tailwind CSS', icon: 'tailwindcss', simpleicons: true },
       { name: 'HTML5', icon: 'html5', devicon: true },
       { name: 'CSS3', icon: 'css3', devicon: true },
@@ -363,14 +363,14 @@ export const SKILLS = [
 ---
 
 ## INFORMATIONS PERSONNELLES
-Nom         : ESSIMBI Louis Jos Deranot
-Titre       : Développeur Fullstack Senior
-Expérience  : 4 ans
+Nom         : FEZEU WANGA MORIEN JORDAN
+Titre       : Développeur Fullstack 
+Expérience  : 3 ans
 Localisation: Yaoundé, Cameroun
-Email       : essimbideranot@gmail.com
-Téléphone   : (+237) 695 164 183
-GitHub      : github.com/Essimbi
-Disponible  : Oui — missions & consulting
+Email       : fezeujordan77@gmail.com
+Téléphone   : (+237) 657 83 40 95
+GitHub      : github.com/Jordanfez
+Disponible  : Oui
 
 ---
 
